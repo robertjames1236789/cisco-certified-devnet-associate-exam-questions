@@ -1,3 +1,5 @@
+<h1><strong>How I Passed Cisco Certified DevNet Associate Exam?</strong></h1>
+
 <p>I&#39;m not a huge lover of vendor technical certifications, but I do enjoy taking them now and again to drive myself out of my comfort zone and learn about new tools or ideas that I haven&#39;t encountered before.</p>
 
 <p>This was my primary motivation for seeking the <a href="https://www.study4exam.com/cisco/cisco-certified-devnet-associate-exam-questions" target="_blank"><strong>Cisco Certified&nbsp;DevNet Associate credential</strong></a>. After +3 years as a Network Automation Engineer, I asked myself the following question:</p>
